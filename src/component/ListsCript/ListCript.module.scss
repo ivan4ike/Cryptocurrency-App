@@ -1,0 +1,25 @@
+.app{
+    border-radius: 10px;
+    border: solid rgb(37, 111, 145) 1px;
+    background: rgb(255, 255, 255);
+    color: black;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+
+.title{
+    font-size: 20px;
+    border-bottom: black solid 1px;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+.scrollPanel{
+    overflow: auto ;
+    max-height: 300px;
+    max-width: 350px;
+}
+
+// .scrollPanel{}
